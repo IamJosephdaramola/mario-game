@@ -7,10 +7,10 @@
 Do the following:
 
 clone this repo to your local directory.
-`git clone https://github.com/iamjosephdaramola/React-Maze-Game.git`
+`git clone https://github.com/iamjosephdaramola/mario-game.git`
 
 navigate to directory
-`cd to React Maze folder`
+`cd to  Mario game folder`
 
 #### run
 
